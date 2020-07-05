@@ -1,0 +1,6 @@
+{
+    "name": "WebAPI",
+    "pluginfile": "AirmenWebAPI.dll",
+    "pluginclass": "WebAPI",
+    "pluginnamespace": "WebAPI"
+  }

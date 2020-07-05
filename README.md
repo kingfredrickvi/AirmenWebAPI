@@ -21,6 +21,12 @@ wget https://github.com/kingfredrickvi/AirmenWebAPI/releases/download/1.0/webapi
 tar -xzvf webapi-v1.0.tar.gz -C $AIRMEN_PATH/plugins
 ```
 
+## WebUI
+
+Check out this project for an Angular Web UI that interacts with this API
+
+https://github.com/kingfredrickvi/AirmenWebUI
+
 ## API Info
 
 Host: 0.0.0.0

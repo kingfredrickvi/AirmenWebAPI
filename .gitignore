@@ -1,0 +1,6 @@
+.vs/
+obj/
+bin/
+*.tar.gz
+*.csproj
+
